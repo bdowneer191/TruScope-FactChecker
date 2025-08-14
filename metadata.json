@@ -1,0 +1,5 @@
+{
+  "name": "TruScope AI - Modular AI Prompt Templates",
+  "description": "A web application to visualize and manage modular AI development prompts for building a sophisticated fact-checker application. This tool presents copy-paste ready prompts for various development phases.",
+  "requestFramePermissions": []
+}
